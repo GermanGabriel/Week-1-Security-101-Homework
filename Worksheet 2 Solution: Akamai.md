@@ -1,4 +1,6 @@
-# Cybersecurity Threat Landscape (Part 2 - Akamai)  
+# Cybersecurity Threat Landscape
+
+## Part 2 - Akamai  
 
 In this part, you should primarily use the *Akamai_Security_Year_in_Review_2019* and *Akamai State of the Internet/ Security* plus independent research to answer the below questions.
 
