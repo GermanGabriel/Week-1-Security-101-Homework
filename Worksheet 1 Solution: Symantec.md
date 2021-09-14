@@ -167,7 +167,7 @@ For Part 1 of your homework assignment, you should primarily use the *Symantec I
 ## :sunglasses: `Ketan Vithal Patel` :sunglasses:  
 
 
-### `Monday, March 8th 2021 -- UofT Cybersecurity - Boot Camp`
+### `Saturday, March 20th 2021 -- UofT Cybersecurity - Boot Camp`
 #### :rose::rose:`Jai Shri Swaminarayan`:rose::rose:
 ```
 હરે કૃષ્ણ હરે કૃષ્ણ, કૃષ્ણ કૃષ્ણ હરે હરે |  Hare Krishna Hare Krishna, Krishna Krishna Hare Hare |
