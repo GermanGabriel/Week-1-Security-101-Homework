@@ -1,9 +1,9 @@
 # Security 101 Homework: Security Reporting  
 ## Part I: Symantec
 
-For Part 1 of your homework assignment, you should primarily use the Symantec
-Internet Security Threat Report along with independent research to answer the following
-questions.  
+For Part 1 of your homework assignment, you should primarily use the *Symantec Internet Security Threat Report* along with independent research to answer the following questions.  
+
+---
 
   1. What is formjacking?  
     `Formjacking is when cybercriminals inject malicious JavaScript code to hack a website and take over the functionality of the site's form page to collect sensitive user information.`
