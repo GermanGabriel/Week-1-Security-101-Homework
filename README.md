@@ -60,3 +60,16 @@ If you have any questions, please reach out to your Student Success Manager.
 
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
+
+## Week 1 Homework Solution: Security Reporting
+
+Refer to the following solution files for the homework worksheets: 
+
+* [Worksheet 1 Solution: Symantec](https://github.com/karma-786/Week-1-Security-101-Homework/blob/main/Worksheet%201%20Solution:%20Symantec.md) 
+
+* [Worksheet 2 Solution: Akamai](https://github.com/karma-786/Week-1-Security-101-Homework/blob/main/Worksheet%202%20Solution:%20Akamai.md) 
+
+* [Worksheet 3 Solution: Verizon](https://github.com/karma-786/Week-1-Security-101-Homework/blob/main/Worksheet%203%20Solution:%20Verizon.md)
+
+---
+© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
