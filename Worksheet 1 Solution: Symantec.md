@@ -161,4 +161,16 @@ questions.
      d. Single credit card with full details: $1-45
      e. 500 social media followers: $2-6
      ```
-     
+
+---
+  
+## :sunglasses: `Ketan Vithal Patel` :sunglasses:  
+
+
+### `July 12, 2021 -- UofT Cybersecurity - Boot Camp`
+#### :rose::rose:`Jai Shri Swaminarayan`:rose::rose:
+```
+હરે કૃષ્ણ હરે કૃષ્ણ, કૃષ્ણ કૃષ્ણ હરે હરે |  Hare Krishna Hare Krishna, Krishna Krishna Hare Hare |
+હરે રામ હરે રામ, રામ રામ હરે હરે ||   Hare Ram Hare Ram, Ram Ram Hare Hare ||
+```
+---  
